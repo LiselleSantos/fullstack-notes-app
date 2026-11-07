@@ -2,7 +2,7 @@
 
 A full-stack notes app built with React, Node.js, Express, and SQLite. Users can create, edit, delete, and view notes, and the notes stay saved after a refresh.
 
-
+![Class Notes screenshot](screenshot.png)
 
 ## Features
 
